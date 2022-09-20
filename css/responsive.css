@@ -346,10 +346,22 @@
         background-size: none;
     }
     .mean-container .mean-bar {
-        margin-top: -5vw;
+        margin-top: -15vw;
+    }
+    #lien-tete{
+        margin-top: 22vw;
+    }
+    #lien-tete1{
+        margin-top: 22vw;
+    }
+    #lien-tete2{
+        margin-top: 22vw;
     }
 
-    
+    #photo{
+        width: 30vw;
+        display: inline;
+    }
     .mean-last {
         display: none;
     }
@@ -391,9 +403,6 @@
     #photo-corp{
         margin-bottom: -60vw;
         transform: translate(0, -60vw);
-    }
-    #photo{
-        width: 10vw;
     }
     
     .blog .blog-box .travel span {
