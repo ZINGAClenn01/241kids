@@ -1381,6 +1381,7 @@ nav.main-menu {
 	justify-content: center;
 	transform: translate(0, -3.2vw);
 	width: 15vw;
+	display: inline;
 }
 
 .relative {
@@ -1591,7 +1592,9 @@ z-index: 999;
 	margin-top: -10vw;
 	border-radius: 2vw;
 }
-
+#hoto{
+	width: 20vw;
+}
 
 #formation-bas{
 	margin-top: 5vw;

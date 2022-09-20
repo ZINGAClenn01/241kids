@@ -404,6 +404,9 @@
         margin-bottom: -60vw;
         transform: translate(0, -60vw);
     }
+    #center-desk{
+        display: inline;
+    }
     
     .blog .blog-box .travel span {
         font-size: 12px;
