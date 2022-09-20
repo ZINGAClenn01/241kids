@@ -374,6 +374,18 @@
        line-height: 16px;
        padding-bottom: 25px;
     }
+
+    #paragraphe-about{
+        line-height: 7vw;
+    }
+    #titre-about{
+        font-size: 5vw;
+    }
+
+    #photo-corp{
+        margin-bottom: -60vw;
+        transform: translate(0, -60vw);
+    }
     
     .blog .blog-box .travel span {
         font-size: 12px;
