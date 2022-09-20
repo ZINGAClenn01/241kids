@@ -378,6 +378,10 @@
     #paragraphe-about{
         line-height: 7vw;
     }
+
+    #slide{
+        display: none;
+    }
     #titre-about{
         font-size: 5vw;
     }
