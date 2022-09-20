@@ -346,8 +346,10 @@
         background-size: none;
     }
     .mean-container .mean-bar {
-        margin-top: 0;
+        margin-top: -5vw;
     }
+
+    
     .mean-last {
         display: none;
     }
@@ -389,6 +391,9 @@
     #photo-corp{
         margin-bottom: -60vw;
         transform: translate(0, -60vw);
+    }
+    #photo{
+        width: 10vw;
     }
     
     .blog .blog-box .travel span {
